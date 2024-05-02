@@ -1,4 +1,4 @@
-package com.garcia.student;
+package com.mesia.student;
 
 import jakarta.persistence.*;
 
