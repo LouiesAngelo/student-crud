@@ -1,4 +1,4 @@
-package com.garcia.student;
+package com.mesia.student;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
